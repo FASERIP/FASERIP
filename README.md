@@ -1,0 +1,7 @@
+- Fighting
+- Agility
+- Strength
+- Endurance
+- Reason
+- Intuition
+- Psyche
